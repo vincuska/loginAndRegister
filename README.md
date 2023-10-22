@@ -1,2 +1,18 @@
 # loginAndRegister
-A simple register and login script that will save the files as hashes and with salts
+A simple script that allows users to create and login to accounts, storing passwords as hashes with salts.
+
+## Commands
++ `register`
++ `login`
++ `exit`
+
+## Run Locally
+
+```batch
+  git clone https://github.com/vincuska/loginAndRegister
+  cd loginAndRegister
+```
+
+```batch
+  python main.py
+```

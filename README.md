@@ -1,5 +1,6 @@
 # loginAndRegister
 A simple script that allows users to create and login to accounts, storing passwords as hashes with salts.
+It sill store them in a file called passwords.txt.
 
 ## Commands
 + `register`

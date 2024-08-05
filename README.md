@@ -15,5 +15,6 @@ It sill store them in a file called passwords.txt.
 ```
 
 ```batch
+  pip install -r requirements.txt
   python main.py
 ```
